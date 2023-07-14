@@ -1,2 +1,2 @@
 # ndipoo-mobile
-A file sharing mobile app build with flutter
+A file sharing mobile app built with flutter
