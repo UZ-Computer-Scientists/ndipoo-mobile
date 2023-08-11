@@ -17,7 +17,7 @@
 			Ndipoo focuses on the sharing experience. Quickly find recent shares,  
 			in-progress requests, and start sharing with one or multiple devices.
 	- **Works Across Platforms:**  
-			Whether you use Android or iOS, Ndipoo allows sharing between any devicetype.  
+			Whether you use Android or iOS, Ndipoo allows sharing between any device type.  
 			Reach anyone easily with their phone number.
 
 
