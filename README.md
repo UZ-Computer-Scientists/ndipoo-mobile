@@ -23,4 +23,4 @@
 
 ---
 
-##### *All illustrations are attributed to  [`lunacy`](https://icons8.com/lunacy) & [`icons8`](https://icons8.com)			
+##### *All illustrations are attributed to [`freepik`](htp://freepik.com), [`lunacy`](https://icons8.com/lunacy) & [`icons8`](https://icons8.com)			
